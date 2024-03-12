@@ -14,9 +14,9 @@ func main(){
 	// }
 
 	// for pada umum nya
-	// for i:=0;i<=10;i+=1{
-	// 	fmt.Println(i)
-	// }
+	for i:=0;i<=10;i+=1{
+		fmt.Println(i)
+	}
 
 	// looping inside array
 	// arrSlice := []interface{}{1, 2, 3, 4, 5}
